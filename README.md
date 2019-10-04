@@ -34,4 +34,4 @@ In the project, students will be developing an application for a wholesale suppl
 
 ## Licence
 
-[Licence](LICENSE)
+[GNU General Public Licence 3.0](LICENSE)
