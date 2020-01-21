@@ -30,7 +30,7 @@ This module studies the management of data in a distributed environment. It cove
 In the project, students will be developing an application for a wholesale supplier using two different database management systems: [Apache Cassandra](http://cassandra.apache.org/) and [MongoDB](https://www.mongodb.com). The project will be using the SoC Compute Cluster nodes. Each project team will be assigned to use a specific set of five cluster nodes.
 
 - [Wholesale - Cassandra version](https://github.com/yunpengn/Wholesale-Cassandra)
-- [Wholesale - MongoDB version](https://github.com/yunpengn/Wholesale-Mongo)
+- [Wholesale - MongoDB version](https://github.com/yunpengn/Wholesale-MongoDB)
 
 ## Licence
 
